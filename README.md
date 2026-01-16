@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="left">Hi, I'm Jade!</h1>
 
-<!--
-**jadeharlev/jadeharlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I'm currently a senior studying Software Engineering and Game Development Programming.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">→ I've been programming since 2014.
+  <br>
+  → I love learning new things!
+  <br>
+  → You can learn more about me at <a href="https://jharlev.tech">jharlev.tech</a> :)</p>
+
+###
+
+<h3 align="left">Some of my most used tools:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="40" alt="rider logo"  />
+</div>
+
+###
+
+<h2 align="left">Highlighted Project</h2>
+
+###
+
+<p align="left">I'm currently working on <a href="https://github.com/jadeharlev/PartyTricks">Party Tricks</a>! It's a 4-player versus strategic minigame rush being built in Unity and C#.</p>
+
+###
+<br><br>
+<i>The initial code for this profile was generated using <a href="https://github.com/maurodesouza/profile-readme-generator">profile-readme-generator</a>.</i>
