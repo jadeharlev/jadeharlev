@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently a senior studying Software Engineering and Game Development Programming.</p>
+<p align="left">I'm currently a college senior studying Software Engineering and Game Development Programming.</p>
 
 ###
 
