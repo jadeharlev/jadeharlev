@@ -40,11 +40,14 @@
 
 ###
 
-<h2 align="left">Highlighted Project</h2>
+<h2 align="left">Highlighted Projects</h2>
 
 ###
 
 <p align="left">I'm currently working on <a href="https://github.com/jadeharlev/PartyTricks">Party Tricks</a>! It's a 4-player versus strategic minigame rush being built in Unity and C#.</p>
+
+
+<p align="left">I'm also working on <a href="https://github.com/jadeharlev/Unity-Wizard">Unity Wizard</a>, a Unity project configurator with core logic built in engine-decoupled C#.</p>
 
 ###
 <br><br>
